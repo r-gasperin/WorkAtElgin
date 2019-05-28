@@ -1,5 +1,5 @@
-public class Cfanuq {
+public class Clsmnn {
     public static void main() {
-        System.out.println("olrtn");
+        System.out.println("twhll");
     }
 }
