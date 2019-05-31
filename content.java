@@ -1,5 +1,5 @@
-public class Crwdvf {
+public class Civatf {
     public static void main() {
-        System.out.println("pbjsk");
+        System.out.println("sevyr");
     }
 }
