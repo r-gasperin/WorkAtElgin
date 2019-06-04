@@ -1,5 +1,5 @@
-public class Cppfvy {
+public class Cbhejg {
     public static void main() {
-        System.out.println("axdqr");
+        System.out.println("tiykx");
     }
 }
