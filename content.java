@@ -1,5 +1,5 @@
-public class Clqegm {
+public class Cvinae {
     public static void main() {
-        System.out.println("odpnn");
+        System.out.println("nswxu");
     }
 }
