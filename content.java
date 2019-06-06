@@ -1,5 +1,5 @@
-public class Cyqfnb {
+public class Cvgmli {
     public static void main() {
-        System.out.println("sxcgd");
+        System.out.println("didni");
     }
 }
