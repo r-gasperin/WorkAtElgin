@@ -1,5 +1,5 @@
-public class Cmksrq {
+public class Cympac {
     public static void main() {
-        System.out.println("kjvlo");
+        System.out.println("vophe");
     }
 }
