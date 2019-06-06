@@ -1,5 +1,5 @@
-public class Cfsnyx {
+public class Cmksrq {
     public static void main() {
-        System.out.println("hkdca");
+        System.out.println("kjvlo");
     }
 }
