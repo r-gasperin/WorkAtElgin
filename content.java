@@ -1,5 +1,5 @@
-public class Cimxox {
+public class Cyqfnb {
     public static void main() {
-        System.out.println("jakjt");
+        System.out.println("sxcgd");
     }
 }
