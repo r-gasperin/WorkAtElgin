@@ -1,5 +1,5 @@
-public class Cympac {
+public class Cwutbr {
     public static void main() {
-        System.out.println("vophe");
+        System.out.println("okrxd");
     }
 }
