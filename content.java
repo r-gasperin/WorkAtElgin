@@ -1,5 +1,5 @@
-public class Cgqcrh {
+public class Crlhvt {
     public static void main() {
-        System.out.println("wmnfv");
+        System.out.println("pehcp");
     }
 }
