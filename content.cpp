@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-        cout << "verbx";
+        cout << "weunk";
 return 0;
 }
