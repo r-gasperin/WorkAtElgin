@@ -1,5 +1,5 @@
-public class Cikang {
+public class Cogjyq {
     public static void main() {
-        System.out.println("wkkyp");
+        System.out.println("rcsqh");
     }
 }
