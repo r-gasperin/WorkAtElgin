@@ -1,5 +1,5 @@
-public class Crlhvt {
+public class Cxrxin {
     public static void main() {
-        System.out.println("pehcp");
+        System.out.println("ysrie");
     }
 }

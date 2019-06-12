@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-        cout << "jqpkg";
+        cout << "kocjs";
 return 0;
 }
