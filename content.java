@@ -1,5 +1,5 @@
-public class Cpbrnn {
+public class Cjyjnd {
     public static void main() {
-        System.out.println("ombga");
+        System.out.println("rgpew");
     }
 }
