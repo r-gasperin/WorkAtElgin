@@ -1,5 +1,5 @@
-public class Cmnriv {
+public class Cjhjdt {
     public static void main() {
-        System.out.println("ekvut");
+        System.out.println("qxhkp");
     }
 }
