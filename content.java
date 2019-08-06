@@ -1,5 +1,5 @@
-public class Cdglkf {
+public class Cuksut {
     public static void main() {
-        System.out.println("cdpja");
+        System.out.println("jxulk");
     }
 }
