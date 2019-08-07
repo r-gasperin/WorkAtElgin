@@ -1,5 +1,5 @@
-public class Cuksut {
+public class Cpervb {
     public static void main() {
-        System.out.println("jxulk");
+        System.out.println("dyhbb");
     }
 }
