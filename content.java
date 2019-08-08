@@ -1,5 +1,5 @@
-public class Ctcrkr {
+public class Chepdd {
     public static void main() {
-        System.out.println("jhqtn");
+        System.out.println("itdsx");
     }
 }
