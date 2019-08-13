@@ -1,5 +1,5 @@
-public class Cudytn {
+public class Coytgt {
     public static void main() {
-        System.out.println("vhpas");
+        System.out.println("gjkcc");
     }
 }
