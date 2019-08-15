@@ -1,5 +1,5 @@
-public class Cbfygf {
+public class Caqdjx {
     public static void main() {
-        System.out.println("ijfyr");
+        System.out.println("hsvik");
     }
 }
