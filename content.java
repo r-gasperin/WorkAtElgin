@@ -1,5 +1,5 @@
-public class Camjlv {
+public class Cvuvuq {
     public static void main() {
-        System.out.println("dyvfq");
+        System.out.println("coarm");
     }
 }
