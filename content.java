@@ -1,5 +1,5 @@
-public class Cvuvuq {
+public class Cdilct {
     public static void main() {
-        System.out.println("coarm");
+        System.out.println("roxsy");
     }
 }
