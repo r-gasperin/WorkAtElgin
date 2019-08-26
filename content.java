@@ -1,5 +1,5 @@
-public class Cdilct {
+public class Cadvkd {
     public static void main() {
-        System.out.println("roxsy");
+        System.out.println("fqdaq");
     }
 }
