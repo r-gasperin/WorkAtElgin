@@ -1,5 +1,5 @@
-public class Cadvkd {
+public class Cvvxdv {
     public static void main() {
-        System.out.println("fqdaq");
+        System.out.println("hasny");
     }
 }
