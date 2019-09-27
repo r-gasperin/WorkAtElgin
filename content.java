@@ -5,5 +5,6 @@ public class Cbnexp {
         System.out.println("rgjcp");
         System.out.println("hyveh");
         System.out.println("fafji");
+        System.out.println("eiuuo");
     }
 }
