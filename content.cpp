@@ -5,6 +5,6 @@ int main() {
         cout << "gdtus";
         cout << "sxddv";
         cout << "nckym";
-        cout << "beype";
+        cout << "skykt";
 return 0;
 }
