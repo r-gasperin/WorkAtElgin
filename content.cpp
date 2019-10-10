@@ -6,6 +6,6 @@ int main() {
         cout << "sxddv";
         cout << "nckym";
         cout << "skykt";
-        cout << "qqgsn";
+        cout << "wwufn";
 return 0;
 }
