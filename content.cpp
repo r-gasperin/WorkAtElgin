@@ -10,6 +10,6 @@ int main() {
         cout << "jjblc";
         cout << "wduud";
         cout << "cdjad";
-        cout << "koosd";
+        cout << "sciyp";
 return 0;
 }
