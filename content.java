@@ -10,6 +10,6 @@ public class Cbnexp {
         System.out.println("ufwck");
         System.out.println("ltyyp");
         System.out.println("etatp");
-        System.out.println("ungve");
+        System.out.println("wgvsh");
     }
 }
