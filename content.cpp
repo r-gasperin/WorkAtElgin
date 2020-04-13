@@ -11,6 +11,6 @@ int main() {
         cout << "wduud";
         cout << "cdjad";
         cout << "sciyp";
-        cout << "tqksl";
+        cout << "npvle";
 return 0;
 }
