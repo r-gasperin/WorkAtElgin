@@ -15,6 +15,6 @@ public class Cbnexp {
         System.out.println("orsqr");
         System.out.println("xpemk");
         System.out.println("gwdpm");
-        System.out.println("hoipx");
+        System.out.println("hasbn");
     }
 }
