@@ -22,6 +22,6 @@ public class Cbnexp {
         System.out.println("scayx");
         System.out.println("qigka");
         System.out.println("chyov");
-        System.out.println("nichx");
+        System.out.println("imcvo");
     }
 }
