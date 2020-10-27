@@ -23,5 +23,6 @@ public class Cbnexp {
         System.out.println("qigka");
         System.out.println("chyov");
         System.out.println("imcvo");
+        System.out.println("bgeat");
     }
 }
