@@ -28,6 +28,6 @@ public class Cbnexp {
         System.out.println("elakf");
         System.out.println("awmkw");
         System.out.println("prdwn");
-        System.out.println("pmoba");
+        System.out.println("narpk");
     }
 }
