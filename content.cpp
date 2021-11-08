@@ -18,6 +18,6 @@ int main() {
         cout << "wabnt";
         cout << "kpkcr";
         cout << "ngess";
-        cout << "yfqfo";
+        cout << "geanq";
 return 0;
 }
