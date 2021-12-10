@@ -33,5 +33,6 @@ public class Cbnexp {
         System.out.println("icljl");
         System.out.println("lyctr");
         System.out.println("frmys");
+        System.out.println("omagp");
     }
 }
