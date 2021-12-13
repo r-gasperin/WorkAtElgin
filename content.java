@@ -34,6 +34,6 @@ public class Cbnexp {
         System.out.println("lyctr");
         System.out.println("frmys");
         System.out.println("omagp");
-        System.out.println("hphsp");
+        System.out.println("vmgob");
     }
 }
