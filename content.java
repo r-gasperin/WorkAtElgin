@@ -35,5 +35,6 @@ public class Cbnexp {
         System.out.println("frmys");
         System.out.println("omagp");
         System.out.println("kwfsw");
+        System.out.println("knffq");
     }
 }
